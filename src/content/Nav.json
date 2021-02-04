@@ -1,0 +1,12 @@
+{
+    "es": {
+        "logo": "verdu",
+        "home": "Inicio",
+        "about": "About"
+    },
+    "en": {
+        "logo": "verdu",
+        "home": "Home",
+        "about": "About"
+    }
+}
